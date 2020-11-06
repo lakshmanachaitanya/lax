@@ -1,0 +1,45 @@
+{
+  "Type": "Continue",
+  "Settings": {
+    "Mode": "testing",
+    "Locale": "en_US",
+    "Venue": "online"
+  },
+  "Answers":       {
+                "QuestionSetId": 2081662,
+                    "Questions": [
+                               {
+                               "QuestionId": 6199692,
+                               "Choices": [
+                                                               {
+                                                               "Choice": "29255112"
+                                               }
+                                               ]
+                        },
+                                                {
+                               "QuestionId": 6199702,
+                               "Choices": [
+                                                               {
+                                                               "Choice": "29255152"
+                                               }
+                                               ]
+                        },
+                               {
+                               "QuestionId": 6199712,
+                               "Choices": [
+                                                               {
+                                                               "Choice": "29255222"
+                                               }
+                                               ]
+                        },
+                               {
+                               "QuestionId": 6199722,
+                               "Choices": [
+                                                               {
+                                                               "Choice": "29255282"
+                                               }
+                                               ]
+                        }
+                ]
+        }
+}
